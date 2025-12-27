@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "運命の赤い糸",
+  "base_artist": "水瀬いのり",
+  "createdAt": "2025-12-27T16:44:25.053906Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "運命の赤い糸",
+      "artist": "Inori Minase",
+      "has_synced": false,
+      "path": "select/01_運命の赤い糸_Inori_Minase.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "運命の赤い糸",
+      "artist": "水瀬いのり",
+      "has_synced": false,
+      "path": "select/02_運命の赤い糸_水瀬いのり.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "運命の赤い糸",
+      "artist": "水瀬いのり",
+      "has_synced": false,
+      "path": "select/pl_01_運命の赤い糸_水瀬いのり.txt"
+    }
+  ]
+}
